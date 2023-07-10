@@ -8,6 +8,6 @@ class C04 {
             return a;
         }
 
-        return (a + 1) * compute(a, b - 1);
+        return a * compute(a, b - 1);
     }
 }
