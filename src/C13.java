@@ -1,4 +1,10 @@
 public class C13 {
+    public static void main(String[] args) {
+        int number1 = 20;
+        int number2 = 15;
+        System.out.print(compute(number1, number2));
+    }
+
     public static int compute(int number1, int number2) {
         int temp = number1;
 

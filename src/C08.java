@@ -1,4 +1,10 @@
 public class C08 {
+    public static void main(String[] args) {
+        String input = "101";
+        int number = 1;
+        System.out.print(compute(input, number));
+    }
+
     static int compute(String s, int number) {
         if (number < 0) {
             return 0;

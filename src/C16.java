@@ -1,4 +1,10 @@
 public class C16 {
+    public static void main(String[] args) {
+        String word1 = "Hamburg";
+        String word2 = "burg";
+        System.out.print(compute(word1, word2));
+    }
+
     public static boolean compute(String word1, String word2) {
         boolean result = false;
 

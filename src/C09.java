@@ -1,4 +1,9 @@
 public class C09 {
+    public static void main(String[] args) {
+        String text = "The quick brown fox jumps";
+        System.out.print(compute(text));
+    }
+
     public static int compute(String text) {
         int result = 0;
 

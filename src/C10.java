@@ -1,4 +1,9 @@
 public class C10 {
+    public static void main(String[] args) {
+        String word = "reviver";
+        System.out.print(compute(word));
+    }
+
     public static boolean compute(String word) {
         boolean result = true;
 

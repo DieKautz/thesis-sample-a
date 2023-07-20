@@ -1,6 +1,11 @@
 import java.util.Arrays;
 
 class C02 {
+    public static void main(String[] args) {
+        int[] numbers = {9, 25, 16, 100};
+        System.out.print(compute(numbers));
+    }
+
     public static String compute(int[] numbers) {
         double[] result = new double[numbers.length];
 

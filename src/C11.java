@@ -1,4 +1,9 @@
 public class C11 {
+    public static void main(String[] args) {
+        int value = 112;
+        System.out.print(compute(value));
+    }
+
     public static String compute(int value) {
         String result;
 

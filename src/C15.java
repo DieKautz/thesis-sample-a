@@ -1,4 +1,9 @@
 public class C15 {
+    public static void main(String[] args) {
+        String word = "Magdeburg";
+        System.out.print(compute(word));
+    }
+
     public static int compute(String word) {
         char[] letters = {'a', 'e', 'i', 'o', 'u'};
         int result = 0;

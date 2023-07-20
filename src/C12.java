@@ -1,6 +1,11 @@
 import java.util.Arrays;
 
 public class C12 {
+    public static void main(String[] args) {
+        int[] numbers = {2, 4, 1, 4, 9};
+        System.out.print(compute(numbers));
+    }
+
     public static int compute(int[] numbers) {
         Arrays.sort(numbers);
 

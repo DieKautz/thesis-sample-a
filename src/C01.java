@@ -1,4 +1,9 @@
 class C01 {
+    public static void main(String[] args) {
+        String input = "Yes";
+        System.out.print(compute(input));
+    }
+
     public static Boolean compute(String input) {
         input = input.toLowerCase();
 
