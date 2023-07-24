@@ -1,4 +1,4 @@
-public class C07 {
+class C07 {
     public static void main(String[] args) {
         int n = 3247;
         System.out.print(compute(n));

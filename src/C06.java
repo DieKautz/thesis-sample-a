@@ -1,4 +1,4 @@
-public class C06 {
+class C06 {
     public static void main(String[] args) {
         int input = 4;
         System.out.print(compute(input));

@@ -1,4 +1,4 @@
-public class C14 {
+class C14 {
     public static void main(String[] args) {
         int a = 9;
         int b = 12;

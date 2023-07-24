@@ -1,4 +1,4 @@
-public class C17 {
+class C17 {
     public static void main(String[] args) {
         int[] numbers = {2, 4, 1, 9};
         System.out.print(compute(numbers));

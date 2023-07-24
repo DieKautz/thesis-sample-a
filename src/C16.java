@@ -1,4 +1,4 @@
-public class C16 {
+class C16 {
     public static void main(String[] args) {
         String word1 = "Hamburg";
         String word2 = "burg";

@@ -1,4 +1,4 @@
-public class C13 {
+class C13 {
     public static void main(String[] args) {
         int number1 = 20;
         int number2 = 15;

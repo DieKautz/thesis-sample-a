@@ -1,4 +1,4 @@
-public class C15 {
+class C15 {
     public static void main(String[] args) {
         String word = "Magdeburg";
         System.out.print(compute(word));

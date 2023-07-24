@@ -1,4 +1,4 @@
-public class C08 {
+class C08 {
     public static void main(String[] args) {
         String input = "101";
         int number = 1;
