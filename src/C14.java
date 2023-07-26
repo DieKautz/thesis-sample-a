@@ -1,10 +1,12 @@
+import java.util.Arrays;
+
 class C14 {
     public static void main(String[] args) {
         int a = 9;
         int b = 12;
         int c = 8;
         int d = 11;
-        System.out.print(compute(a, b, c, d));
+        System.out.print(Arrays.toString(compute(a, b, c, d)));
     }
 
     public static int[] compute(int a, int b, int c, int d) {
